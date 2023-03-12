@@ -57,5 +57,5 @@ Then paste the file
 Thanks🤍
 
 
-<img src="https://github.com/justinx3/pubg/blob/main/Images/Screenshot_2023-03-12-20-54-23-00_db2300be643d553259cbc11cd691d2a5.jpg" height="250" width="250" align="right">
+<img src="https://github.com/justinx3/pubg/blob/main/Images/Screenshot_2023-03-12-20-54-23-00_db2300be643d553259cbc11cd691d2a5.jpg" height="250" width="250" >
 
