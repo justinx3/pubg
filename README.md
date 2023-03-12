@@ -39,7 +39,7 @@ Now you can see a file named obb file
 Open it and you can see a file
 
 <div align="center">
-<img src="https://github.com/justinx3/pubg/blob/main/Images/IMG_20230312_205142.jpg" height="250" width="250" align="right">
+<img src="https://github.com/justinx3/pubg/blob/main/Images/IMG_20230312_205142.jpg" height="250" width="250" >
 
 Click and select move
 
