@@ -39,5 +39,23 @@ Now you can see a file named obb file
 Open it and you can see a file
 
 <div align="center">
+<img src="https://github.com/justinx3/pubg/blob/main/Images/IMG_20230312_205142.jpg" height="250" width="250" align="right">
+
+Click and select move
+
+Select
+
+Android>obb>
+
+Then paste the file
+
+
+  Your game is ready to go
+
+
+
+Thanks🤍
+
+
 <img src="" height="250" width="250" align="right">
-  
+
