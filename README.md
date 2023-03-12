@@ -5,3 +5,7 @@
 
 follow the instructions carefully <3
 
+
+
+first click the download button to download the apk
+
