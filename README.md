@@ -9,3 +9,6 @@ follow the instructions carefully <3
 
 first click the download button to download the apk
 
+<code><a href="https://www.mediafire.com/file/cjlm7fof6qudym8/Battlegrounds_India.apk/file" title="apk file"><img height="20" width="40" src="images/download.png"></a></code>          
+
+
